@@ -18,9 +18,9 @@
 #include <LiquidCrystal_I2C.h>
 
 //PIN DISPOSIVI
-# define PIN_CS 43
-# define PIN_RST 48
-# define PIN_SDA 49
+#define PIN_CS 43
+#define PIN_RST 48
+#define PIN_SDA 49
 //PIN LED E RELE'
 #define LED_G 3
 #define LED_B 4
